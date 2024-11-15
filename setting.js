@@ -6,8 +6,8 @@ const tempName = 'temp'
 global.tempDir = path.resolve(new URL('.', import.meta.url).pathname, tempName)
 
 const owner = [
-    ['6282xxxxxxx', 'Kaze'],
-    ['6282xxxxxxx']
+    ['6285215603320', 'LoraaX'],
+    ['6288227515514']
 ]
 
 const defaultPrefix = ['/', '!', '#', '.', '-', '🗿']
