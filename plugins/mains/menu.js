@@ -44,7 +44,7 @@ export const cmd = {
         }
 
         teks += `\nTotal fitur: ${totalFitur}\n`
-        teks += `> Bot Ini menggunakan script: https://github.com/kazedepid/whatsapp-bot\n\n> WhatsApp Bot@${version}\n\n`
+        teks += `> Silahkan Chat Owner Untuk Mendapatkan Script Bot\n\n> WhatsApp Bot@${version}\n\n`
 
         if (teks.trim() === '') {
             teks = 'Tidak ada perintah yang ditemukan untuk kategori ini.'
